@@ -32,3 +32,5 @@ index = (birth_year - 1900) % 12
 zodiac = zodiac_signs[index]
 
 print("Your Chinese Zodiac Sign is:", zodiac)
+
+![Chinese Zodiac Output](zodiac-output.png)
