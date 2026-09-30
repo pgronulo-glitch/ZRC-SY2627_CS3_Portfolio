@@ -33,4 +33,4 @@ zodiac = zodiac_signs[index]
 
 print("Your Chinese Zodiac Sign is:", zodiac)
 
-![Chinese Zodiac Output](zodiac-output.png)
+![Chinese Zodiac Output](zodiac-output.PNG)
