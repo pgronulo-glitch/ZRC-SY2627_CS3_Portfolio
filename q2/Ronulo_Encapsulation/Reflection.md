@@ -1,1 +1,0 @@
-Using "@property" makes the code easier to read because we can access and modify attributes like normal variables, such as "rectangle.width", instead of using separate "get_width()" and "set_width()" methods. It also allows us to validate values and control access to attributes while keeping the code clean and organized.
